@@ -1,4 +1,6 @@
 rootProject.name = 'java-example'
 include 'example-generic'
 include 'example-native-image'
+include 'example-proxy-pattern'
+include 'example-interface-relation'
 
